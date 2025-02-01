@@ -7,8 +7,8 @@ After finishing you can see number of words and symbols.
 Test and improve your skills.
 
 ## Manual
-
-(screenshot.png) 
+ 
+![alt app-manual](screenshot.png)
 
 
 ## Technologies
