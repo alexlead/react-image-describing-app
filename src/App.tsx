@@ -1,4 +1,4 @@
-import React from 'react'
+// import React from 'react'
 import Timer from './Timer'
 import WordCounter from './WordCounter'
 import ImageLoader from './ImageLoader'
